@@ -1,0 +1,11 @@
+Font:
+Sans-serif
+
+Color:
+nblue- #0f2656
+skblue- #008aff
+red- #f15767
+light_pink- #fdebed
+light_green- #ebf9f4
+light_yellow- #fff7e8
+silver- #eef0f3
